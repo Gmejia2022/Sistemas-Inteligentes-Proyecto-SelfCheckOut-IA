@@ -1,0 +1,131 @@
+Clase: Apple Braeburn, Índice: 0
+Clase: Apple Crimson Snow, Índice: 1
+Clase: Apple Golden 1, Índice: 2
+Clase: Apple Golden 2, Índice: 3
+Clase: Apple Golden 3, Índice: 4
+Clase: Apple Granny Smith, Índice: 5
+Clase: Apple Pink Lady, Índice: 6
+Clase: Apple Red 1, Índice: 7
+Clase: Apple Red 2, Índice: 8
+Clase: Apple Red 3, Índice: 9
+Clase: Apple Red Delicious, Índice: 10
+Clase: Apple Red Yellow 1, Índice: 11
+Clase: Apple Red Yellow 2, Índice: 12
+Clase: Apricot, Índice: 13
+Clase: Avocado, Índice: 14
+Clase: Avocado ripe, Índice: 15
+Clase: Banana, Índice: 16
+Clase: Banana Lady Finger, Índice: 17
+Clase: Banana Red, Índice: 18
+Clase: Beetroot, Índice: 19
+Clase: Blueberry, Índice: 20
+Clase: Cactus fruit, Índice: 21
+Clase: Cantaloupe 1, Índice: 22
+Clase: Cantaloupe 2, Índice: 23
+Clase: Carambula, Índice: 24
+Clase: Cauliflower, Índice: 25
+Clase: Cherry 1, Índice: 26
+Clase: Cherry 2, Índice: 27
+Clase: Cherry Rainier, Índice: 28
+Clase: Cherry Wax Black, Índice: 29
+Clase: Cherry Wax Red, Índice: 30
+Clase: Cherry Wax Yellow, Índice: 31
+Clase: Chestnut, Índice: 32
+Clase: Clementine, Índice: 33
+Clase: Cocos, Índice: 34
+Clase: Corn, Índice: 35
+Clase: Corn Husk, Índice: 36
+Clase: Cucumber Ripe, Índice: 37
+Clase: Cucumber Ripe 2, Índice: 38
+Clase: Dates, Índice: 39
+Clase: Eggplant, Índice: 40
+Clase: Fig, Índice: 41
+Clase: Ginger Root, Índice: 42
+Clase: Granadilla, Índice: 43
+Clase: Grape Blue, Índice: 44
+Clase: Grape Pink, Índice: 45
+Clase: Grape White, Índice: 46
+Clase: Grape White 2, Índice: 47
+Clase: Grape White 3, Índice: 48
+Clase: Grape White 4, Índice: 49
+Clase: Grapefruit Pink, Índice: 50
+Clase: Grapefruit White, Índice: 51
+Clase: Guava, Índice: 52
+Clase: Hazelnut, Índice: 53
+Clase: Huckleberry, Índice: 54
+Clase: Kaki, Índice: 55
+Clase: Kiwi, Índice: 56
+Clase: Kohlrabi, Índice: 57
+Clase: Kumquats, Índice: 58
+Clase: Lemon, Índice: 59
+Clase: Lemon Meyer, Índice: 60
+Clase: Limes, Índice: 61
+Clase: Lychee, Índice: 62
+Clase: Mandarine, Índice: 63
+Clase: Mango, Índice: 64
+Clase: Mango Red, Índice: 65
+Clase: Mangostan, Índice: 66
+Clase: Maracuja, Índice: 67
+Clase: Melon Piel de Sapo, Índice: 68
+Clase: Mulberry, Índice: 69
+Clase: Nectarine, Índice: 70
+Clase: Nectarine Flat, Índice: 71
+Clase: Nut Forest, Índice: 72
+Clase: Nut Pecan, Índice: 73
+Clase: Onion Red, Índice: 74
+Clase: Onion Red Peeled, Índice: 75
+Clase: Onion White, Índice: 76
+Clase: Orange, Índice: 77
+Clase: Papaya, Índice: 78
+Clase: Passion Fruit, Índice: 79
+Clase: Peach, Índice: 80
+Clase: Peach 2, Índice: 81
+Clase: Peach Flat, Índice: 82
+Clase: Pear, Índice: 83
+Clase: Pear 2, Índice: 84
+Clase: Pear Abate, Índice: 85
+Clase: Pear Forelle, Índice: 86
+Clase: Pear Kaiser, Índice: 87
+Clase: Pear Monster, Índice: 88
+Clase: Pear Red, Índice: 89
+Clase: Pear Stone, Índice: 90
+Clase: Pear Williams, Índice: 91
+Clase: Pepino, Índice: 92
+Clase: Pepper Green, Índice: 93
+Clase: Pepper Orange, Índice: 94
+Clase: Pepper Red, Índice: 95
+Clase: Pepper Yellow, Índice: 96
+Clase: Physalis, Índice: 97
+Clase: Physalis with Husk, Índice: 98
+Clase: Pineapple, Índice: 99
+Clase: Pineapple Mini, Índice: 100
+Clase: Pitahaya Red, Índice: 101
+Clase: Plum, Índice: 102
+Clase: Plum 2, Índice: 103
+Clase: Plum 3, Índice: 104
+Clase: Pomegranate, Índice: 105
+Clase: Pomelo Sweetie, Índice: 106
+Clase: Potato Red, Índice: 107
+Clase: Potato Red Washed, Índice: 108
+Clase: Potato Sweet, Índice: 109
+Clase: Potato White, Índice: 110
+Clase: Quince, Índice: 111
+Clase: Rambutan, Índice: 112
+Clase: Raspberry, Índice: 113
+Clase: Redcurrant, Índice: 114
+Clase: Salak, Índice: 115
+Clase: Strawberry, Índice: 116
+Clase: Strawberry Wedge, Índice: 117
+Clase: Tamarillo, Índice: 118
+Clase: Tangelo, Índice: 119
+Clase: Tomato 1, Índice: 120
+Clase: Tomato 2, Índice: 121
+Clase: Tomato 3, Índice: 122
+Clase: Tomato 4, Índice: 123
+Clase: Tomato Cherry Red, Índice: 124
+Clase: Tomato Heart, Índice: 125
+Clase: Tomato Maroon, Índice: 126
+Clase: Tomato Yellow, Índice: 127
+Clase: Tomato not Ripened, Índice: 128
+Clase: Walnut, Índice: 129
+Clase: Watermelon, Índice: 130
